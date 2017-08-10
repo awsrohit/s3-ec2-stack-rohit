@@ -92,7 +92,7 @@
 		"InstanceId": {
 			"Description": "InstanceId of the newly created EC2 instance",
 			"Value": {
-				"Ref": "RohitEc2"
+				"Ref": "RohitEC2"
 			}
 		}
 	}
